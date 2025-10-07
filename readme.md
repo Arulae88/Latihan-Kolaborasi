@@ -5,3 +5,4 @@ Setiap anggota kelompok diminta untuk melakukan perubahan pada file `data.txt`.
  
 ## Anggota Kelompok 
 -	Muhammad KHoirul Anam    
+-Raihan Hisyam Rofif
